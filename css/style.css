@@ -1,0 +1,48 @@
+body{
+    /* background: url("../img/save9.jpeg") no-repeat 0 0 fixed; */
+  /*  background-color: #79e6ff;*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+h1{
+  color: white;
+  font-family:cursive;
+  text-align: center;
+}
+.navbar-brand{
+  /* background-color: #18bc9c; */
+  color: white;
+}
+
+.panel-title a{
+  text-decoration: none;
+}
+.active{
+	color: #18bc9c;
+}
+.panel-customise {
+  border-color: #18bc9c;
+}
+.panel-customise > .panel-heading {
+  color: #fff;
+  background-color: #18bc9c;
+  border-color: #18bc9c;
+  
+}
+.panel-customise > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #18bc9c;
+}
+.panel-customise > .panel-heading .badge {
+  color: #18bc9c;
+  background-color: #fff;
+}
+.panel-customise > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #18bc9c;
+}
+.panel-customise a:active,.panel-customise a:hover,.panel-customise a:focus{
+	color: white;
+}
+#addmember{
+  background-color: white;
+}

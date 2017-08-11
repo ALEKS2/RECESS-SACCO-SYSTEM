@@ -1,0 +1,7 @@
+contribution 1000 03/07/17 aleks 676778478
+contribution 1000 01/07/17 aleks 676778478
+payloan 1000 zac
+payloan 1000 odeke
+payloan 1000 oburu
+idea software 4000 lets make it by odeke
+idea promoter 4000 lets make it by aleks
